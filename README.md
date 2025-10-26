@@ -1,102 +1,36 @@
- HEAD
-﻿# HTF25-Team-003
+# HTF25-Team-003
 
-## GitHub submission guide
+A full-stack web application built with **Next.js** and **TypeScript**.
 
-In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
+---
+<h2>Peer Skill Exchange Platform
+A full-stack skill-sharing platform empowering machine learning enthusiasts to connect, teach, and learn from each other. Built with Next.js, Drizzle ORM, and SQLite, featuring AI-powered matching, user profiles, instant messaging, session scheduling, and peer feedback.</h2>
 
-<details open>
-<summary><h3>1. Login to your GitHub Account</h3></summary>
-<br>
-<p>Go to <a href="https://github.com">github.com</a> to log in.</p>
-<ul>
-   <li>Open the <a href="https://github.com/cbitosc/HTF25-Team-003">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
-</ul>
-</details>
+🚀 Features
+User Profiles: Sign up and create a detailed profile listing your ML skills to teach and learn.
 
-<details open>
-<summary><h3>2. Fork the Repository</h3></summary>
-<br>
-<p align="center">
-  <img src="fork.jpeg" alt="Fork the Repository" height="300">
-</p>
-<ul>
- <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b>.</li>
- <li>Enter the <b>Repository Name</b> as <b>HTF25-Team-003</b>.</li>
- <li>Then click <b>Create Fork</b>, leaving all other fields as default.</li>
- <li>After a few moments, you can view your forked repo.</li>
-</ul>
-</details>
+• AI Matching Recommendations: Get personalized suggestions for the best learning partners using smart algorithms based on your skillset and goals.
 
-<details open>
-<summary><h3>3. Clone your Repository</h3></summary>
-<br>
-<ul>
- <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> of your forked repository.</li>
- <li>Now open terminal on your local machine.</li>
- <li>Run this command to clone the repo:</li>
-<pre><code>git clone https://github.com/your-username/HTF25-Team-003.git</code></pre>
-</ul>
-</details>
+• Skill Tags & Experience Levels: Add your expertise level for each skill (Beginner, Intermediate, Expert).
 
-<details open>
-<summary><h3>4. Adding files to the Repository</h3></summary>
-<br>
-<ul>
- <li>While doing it for the first time, create a new branch for your changes:</li>
-<pre><code>git checkout -b branch-name</code></pre>
- <li>Add your files or make modifications to existing files.</li>
- <li>Stage your changes:</li>
-<pre><code>git add .</code></pre>
- <li>Commit your changes:</li>
-<pre><code>git commit -m "Descriptive commit message"</code></pre>
- <li>Push your branch to your fork:</li>
-<pre><code>git push origin branch-name</code></pre>
-</ul>
-</details>
+• Discover/Search: Browse, search, and filter members by skills and interests.
 
-<details open>
-<summary><h3>5. Create a Pull Request</h3></summary>
-<br>
-<ul>
- <li>Click on the <b>Contribute</b> button in your fork and choose <b>Open Pull Request</b>.</li>
- <li>Leave all fields as default, then click <b>Create Pull Request</b>.</li>
- <li>Wait a few moments; your PR is now submitted.</li>
-</ul>
-</details>
+• Connection & Messaging: Request connections and chat in real-time with learning partners.
 
-## Thanks for participating!
+• Session Scheduler: Easily propose and schedule mentoring or study sessions within the app.
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+• Feedback & Badges: Rate sessions, endorse partners, and earn achievement badges.
 
-## Getting Started
+• Secure Auth: Modern authentication with support for email and password.
 
-First, run the development server:
+## 🚀 One-Step Setup & Deployment
 
+git clone https://github.com/kxrthikeya/HTF25-Team-003.git
 ```bash
+cd HTF25-Team-003
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 
