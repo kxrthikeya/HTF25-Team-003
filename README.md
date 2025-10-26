@@ -31,6 +31,9 @@ cd HTF25-Team-003
 npm install
 npm run dev
 ```
+## Live Demo
+
+You can view the deployed project here: [Live Site](https://your-project-name.netlify.app)
 
 
 
